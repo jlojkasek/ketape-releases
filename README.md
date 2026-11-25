@@ -75,3 +75,8 @@ Der Schlüssel wird verschlüsselt auf dem Karoo gespeichert. Nach dem Abgleich 
 ## Downloads und Feedback
 
 Die APK, das Update-Manifest und die SHA-256-Prüfsummen findest du beim [aktuellen Release](https://github.com/jlojkasek/ketape-releases/releases/latest). Wenn dir beim Einsatz etwas auffällt, helfen bei einer Meldung im [Issue-Bereich](https://github.com/jlojkasek/ketape-releases/issues) die kEtape-Version, dein Karoo-Modell und die Größe des betroffenen Felds.
+
+
+## Réserve ab kEtape 1.1.0
+
+Réserve zeigt dir während der Fahrt deine modellierte W′-Reserve. **Balance** zeigt Verbrauch und Erholung, **Available Power** schätzt die verfügbare Dauerleistung und **Insights** fasst die Beanspruchung der Reserve über die Fahrt zusammen. Die Parameter lassen sich aus Intervals.icu übernehmen oder manuell eingeben.
